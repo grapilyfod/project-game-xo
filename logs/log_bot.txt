@@ -1,0 +1,45 @@
+Tic-tac-toe Game (Version: 0.4.<25024132>)
+------------------------------------------------
+[INFO] - [2026-04-27 03:56:36] GameLogger initialized!
+[INFO] - [2026-04-27 03:56:36] GameInteraction initialized!
+[INFO] - [2026-04-27 03:56:44] GameEngine initialized!
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 1.05e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 1.04e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 1e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 1.03e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 1.01e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 1.1e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 9.5e-06s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 1e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 1.54e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 2.01e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 1.66e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 2.29e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 3.05e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 5.35e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 9.8e-06s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 1.05e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 9.9e-06s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 1.11e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 8.5e-06s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 1.07e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 1.11e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 8.2e-06s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 9.9e-06s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 1.44e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 9.5e-06s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 1.06e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 1.28e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 1.01e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 1.23e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 9.6e-06s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 1e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 9e-06s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 8.7e-06s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 9.3e-06s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 1.07e-05s
+[DEBUG] - [2026-04-27 03:56:44] execution time of [botMove()] = 8.6e-06s
+[INFO] - [2026-04-27 03:56:44] GameEngine playing done!
+[INFO] - [2026-04-27 03:56:44] GameEngine show endgame done!
+[INFO] - [2026-04-27 03:56:44] GameInteraction closed!
+[INFO] - [2026-04-27 03:56:44] GameLogger closing . . .
